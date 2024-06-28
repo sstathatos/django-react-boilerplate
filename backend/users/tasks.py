@@ -1,6 +1,6 @@
 from django.core import management
 
-from {{project_name}} import celery_app
+from sinister_scheme import celery_app
 
 
 @celery_app.task

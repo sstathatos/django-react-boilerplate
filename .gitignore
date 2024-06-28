@@ -33,7 +33,7 @@ npm-debug.log
 *.map
 
 # General
-/{{project_name}}-venv/
+/sinister_scheme-venv/
 /venv/
 /env/
 /output/
